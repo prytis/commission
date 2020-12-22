@@ -1,0 +1,10 @@
+/.idea 
+/report.xml 
+/.phpstorm.meta.php 
+/.phpunit.result.cache
+/build
+/vendor
+.vscode
+.editorconfig
+.phpstan.neon
+.ecs.yaml
