@@ -18,8 +18,9 @@ Run Tests:
 
 composer test test/< ClassName >
 
-1.todo some new features
+1.todo some new features.
 2. Or maybe not todo nothing
+### Create something special
 
 ### Authors
 [Rytis](https://github.com/Ryttis)
